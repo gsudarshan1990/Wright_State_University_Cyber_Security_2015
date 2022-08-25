@@ -1,0 +1,8 @@
+Job, Gender, Age, Disease
+Professional,M,[35-40),Hepatitis
+Professional,M,[35-40),Hepatitis
+Professional,M,[35-40),HIV
+Artist,F,[30-35),Flu
+Artist,F,[30-35),HIV
+Artist,F,[30-35),HIV
+Artist,F,[30-35),HIV
